@@ -1,0 +1,52 @@
+.filter-container{
+  
+   display: flex;
+   flex-direction: row;
+   align-content: center;
+  justify-content: center;
+   gap: 30px;
+  margin-top: 100px;
+   padding: 10px;
+  
+}
+.filter-container button{
+    color: greenyellow;
+    background-color: black;
+    size: 50px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.items-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 100;
+    align-content: center;
+    justify-content: center;
+   
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    border: 3px solid greenyellow;
+    padding: 30px;
+}
+
+.item-name {
+    font-style: italic;
+    font-size: 43px;
+}
+
+.button.active{
+    background-color: greenyellow;
+    color: black;
+}
+/* button:hover{
+    background-color: greenyellow;
+    color: black;
+} */

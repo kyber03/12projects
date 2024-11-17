@@ -1,0 +1,34 @@
+export const items = [
+    {
+        name:"Gucci",
+        category:"Bags"
+    },
+    {
+        name:"Rayban",
+        category:"Sunglasses"
+    },
+    {
+        name:"Rolex",
+        category:"Watches"
+    },
+    {
+        name:"Nike",
+        category:"Sports"
+    },
+    {
+        name:"Louis vitton",
+        category:"Bags"
+    },
+    {
+        name:"Polaroid",
+        category:"Sunglasses"
+    },
+    {
+        name:"Timex",
+        category:"Watches"
+    },
+    {
+        name:"Puma",
+        category:"Sports"
+    }
+]
